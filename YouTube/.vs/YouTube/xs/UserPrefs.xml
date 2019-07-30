@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4B695FCC-F6D2-473F-9157-A13107D6CC15}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YouTube/Program.cs">
+    <Files>
+      <File FileName="YouTube/Program.cs" Line="26" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="YouTube" expanded="True">
+            <Node name="YouTube" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.YouTube PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,6 @@
+/home/alex/DevSite/C#/YouTube/YouTube/YouTube/bin/Debug/YouTube.exe
+/home/alex/DevSite/C#/YouTube/YouTube/YouTube/bin/Debug/YouTube.pdb
+/home/alex/DevSite/C#/YouTube/YouTube/YouTube/obj/x86/Debug/YouTube.csprojAssemblyReference.cache
+/home/alex/DevSite/C#/YouTube/YouTube/YouTube/obj/x86/Debug/YouTube.csproj.CoreCompileInputs.cache
+/home/alex/DevSite/C#/YouTube/YouTube/YouTube/obj/x86/Debug/YouTube.exe
+/home/alex/DevSite/C#/YouTube/YouTube/YouTube/obj/x86/Debug/YouTube.pdb
