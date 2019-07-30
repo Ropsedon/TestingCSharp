@@ -21,6 +21,9 @@ namespace YouTube
                 case 3:
                     Console.WriteLine("third one");
                     break;
+                case 4:
+                    Console.WriteLine("fourth one");
+                    break;
                 default:
                     Console.WriteLine("fin");
                     break;
