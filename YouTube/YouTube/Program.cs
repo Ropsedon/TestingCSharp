@@ -27,6 +27,9 @@ namespace YouTube
                 case 5:
                     Console.WriteLine("fifth one");
                     break;
+                case 6:
+                    Console.WriteLine("sixth one");
+                    break;
                 default:
                     Console.WriteLine("fin");
                     break;
