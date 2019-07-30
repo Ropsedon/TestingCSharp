@@ -32,6 +32,7 @@ namespace YouTube
                     break;
                 case 7:
                 case 8:
+                case 9:
                     Console.WriteLine("sixth one");
                     break;
                 default:
